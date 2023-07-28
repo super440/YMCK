@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-# Hello there 👋
+# BuildGenius 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
